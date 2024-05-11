@@ -2,5 +2,5 @@
 title: Evil DND Campaign
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Click on one of the links on the side to get started.
+
