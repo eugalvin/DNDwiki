@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Evil DND Campaign
 ---
 
 This is a blank Quartz installation.
